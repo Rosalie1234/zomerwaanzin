@@ -1,0 +1,38 @@
+.titel {
+    text-align: center;
+}
+.members {
+    text-align: right; 
+}
+.a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+.a:visited {
+    color: violet;
+    background-color: transparent;
+    text-decoration: none;
+}
+.groepsleden {
+   border:10px outset red; 
+   background-color: aqua;
+   text-align: center;
+}
+.trbl { 
+    border: 10px outset yellow;
+    background-color: violet;
+    text-align: center;
+}
+#list {color: teal;
+}
+#list1{ font-family: Arial;
+}
+#list2 { font-size: 20px;
+}
+#list3 {display: inline;
+}
+#list4 {border: dotted;
+}
+#list5{text-align: center;
+}
