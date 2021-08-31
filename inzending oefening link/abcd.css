@@ -1,0 +1,10 @@
+div {
+    background-color:white;
+    padding: none;
+    display: none;
+  }
+    
+  span:hover + div {
+    display: block;
+  }
+ 
