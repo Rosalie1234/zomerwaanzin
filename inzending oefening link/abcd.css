@@ -1,10 +1,8 @@
-div {
-    background-color:white;
-    padding: none;
+.afbeelding{
     display: none;
-  }
-    
-  span:hover + div {
-    display: block;
-  }
+}
+.image:hover + .afbeelding{ 
+    display:none;
+    color:aqua;
+}
  
