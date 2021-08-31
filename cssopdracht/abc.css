@@ -1,6 +1,7 @@
 .titel {
     text-align: center;
 }
+
 .members {
     text-align: right; 
 }
@@ -15,14 +16,19 @@
     text-decoration: none;
 }
 .groepsleden {
-   border:10px outset red; 
-   background-color: aqua;
+   border-style:  outset; 
+   border-color: red;
    text-align: center;
+   border-width: 4px 4px 4px 4px;
+   margin:0 200px 0 200px;
+   background-color: rgb(65, 214, 225);
 }
 .trbl { 
     border: 10px outset yellow;
-    background-color: violet;
     text-align: center;
+    border-width: 4px 4px 4px 4px;
+    margin:0 200px 0 200px;
+    background-color: rgb(214, 136, 188);
 }
 #list {color: teal;
 }
